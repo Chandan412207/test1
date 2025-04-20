@@ -1,0 +1,2 @@
+user='joe'
+print('hello ' +user)
